@@ -1,5 +1,5 @@
 <header>
-    <img src="img/dc-logo.png" alt="">
+    <img src="images/dc-logo.png" alt="">
     <ul>
         <li><a href="#">characters</a></li>
         <li><a href="#">comics</a></li>

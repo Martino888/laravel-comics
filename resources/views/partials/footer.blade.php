@@ -63,11 +63,11 @@
                 <ul class="last-ul">
                     <li class="txt">follow us</li>
                     <li>
-                        <img src="img/footer-facebook.png" alt="logo facebook">
-                        <img src="img/footer-twitter.png" alt="logo twitter">
-                        <img src="img/footer-youtube.png" alt="logo youtube">
-                        <img src="img/footer-pinterest.png" alt="logo pinterest">
-                        <img src="img/footer-periscope.png" alt="logo periscope">
+                        <img src="images/footer-facebook.png" alt="logo facebook">
+                        <img src="images/footer-twitter.png" alt="logo twitter">
+                        <img src="images/footer-youtube.png" alt="logo youtube">
+                        <img src="images/footer-pinterest.png" alt="logo pinterest">
+                        <img src="images/footer-periscope.png" alt="logo periscope">
                     </li>
                 </ul>
             </div>
